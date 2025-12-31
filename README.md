@@ -1,6 +1,6 @@
 # Bright DataのBest Buyプロキシ
 
-[![Promo](https://github.com/luminati-io/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/best-buy-proxy) 
+[![Promo](https://github.com/bright-jp/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://brightdata.jp/solutions/best-buy-proxy) 
 
 ## 概要
 精密なターゲティング、比類のない安定性、そして迅速なレスポンスタイムを提供するよう設計されたBright Dataの[Best Buyプロキシ](https://brightdata.jp/solutions/best-buy-proxy)で、シームレスなスクレイピングを体験できます。
